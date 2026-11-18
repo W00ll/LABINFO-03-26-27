@@ -1,0 +1,18 @@
+    1  pwd
+    2  git add .
+    3  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    4  git push -u origin main
+    5  pwd
+    6  history > cmdstask2.txt
+    7  git add .
+    8  git commit -m "2.ª tarefa concluída"
+    9  git push -u origin main
+   10  history > cmdstask2.txt
+   11  pwd
+   12  git pull
+   13  git stash push cmdstask2.txt
+   14  git pull
+   15  git add disciplina.html
+   16  git commit -m "Cria disciplina.html a partir de index.html"
+   17  git push -u origin main
+   18  history > meusComandosCodespace.txt
