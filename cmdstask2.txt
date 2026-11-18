@@ -1,0 +1,6 @@
+    1  pwd
+    2  git add .
+    3  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    4  git push -u origin main
+    5  pwd
+    6  history > cmdstask2.txt
